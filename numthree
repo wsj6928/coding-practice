@@ -1,0 +1,8 @@
+def three():
+	i=1
+	second=[]
+	while i<60:
+		second.append(i)
+		i +=1
+	print i
+	
